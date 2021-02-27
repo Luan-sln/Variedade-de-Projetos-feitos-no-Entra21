@@ -1,0 +1,13 @@
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.exe
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.deps.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.runtimeconfig.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.runtimeconfig.dev.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\bin\Debug\netcoreapp3.1\Alberto.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.csprojAssemblyReference.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.AssemblyInfoInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.AssemblyInfo.cs
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.csproj.CoreCompileInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Alberto\obj\Debug\netcoreapp3.1\Alberto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.exe
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.deps.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.runtimeconfig.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.runtimeconfig.dev.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\bin\Debug\netcoreapp3.1\TrabalhoProfessorVictor.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.csprojAssemblyReference.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.AssemblyInfoInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.AssemblyInfo.cs
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.csproj.CoreCompileInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\TrabalhoProfessorVictor\obj\Debug\netcoreapp3.1\TrabalhoProfessorVictor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.exe
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.deps.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.runtimeconfig.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.runtimeconfig.dev.json
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\bin\Debug\netcoreapp3.1\Jorge.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.csprojAssemblyReference.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.AssemblyInfoInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.AssemblyInfo.cs
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.csproj.CoreCompileInputs.cache
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.dll
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.pdb
+C:\Users\Tati e Luan\Documents\!10tudo\SHARP\Jorge\obj\Debug\netcoreapp3.1\Jorge.genruntimeconfig.cache
